@@ -18,15 +18,6 @@ This project implements a secure authentication system using react.js,autho0 for
 - Customizable Authentication Flows: Use Auth0 Rules and Hooks for custom logic. 
 - API Security: Protects APIs with OAuth 2.0 and OpenID Connect protocols.
 
-
-## Result
-
-![Screenshot of the project](authentication-app/img/FS-screen-1%50.png)
-![Screenshot of the project](authentication-app/img/FS-screen-2%50.png)
-![Screenshot of the project](authentication-app/img/FS-screen-3%50.png)
-
-
-
 ## Dependencies
 
 - React.js
