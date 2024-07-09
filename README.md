@@ -21,9 +21,9 @@ This project implements a secure authentication system using react.js,autho0 for
 
 ## Result
 
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Secure User Authentication/authentication-app/img/FS-screen 1.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Secure User Authentication/authentication-app/img/FS-screen-2.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Secure User Authentication/authentication-app/img/FS-screen-3.png](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Dependencies
